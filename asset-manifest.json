@@ -1,0 +1,16 @@
+{
+  "main.css": "/shop/static/css/main.b05b6a6e.chunk.css",
+  "main.js": "/shop/static/js/main.e46d06a8.chunk.js",
+  "main.js.map": "/shop/static/js/main.e46d06a8.chunk.js.map",
+  "runtime~main.js": "/shop/static/js/runtime~main.265007fa.js",
+  "runtime~main.js.map": "/shop/static/js/runtime~main.265007fa.js.map",
+  "static/js/2.1efdb40e.chunk.js": "/shop/static/js/2.1efdb40e.chunk.js",
+  "static/js/2.1efdb40e.chunk.js.map": "/shop/static/js/2.1efdb40e.chunk.js.map",
+  "index.html": "/shop/index.html",
+  "precache-manifest.b2ed8e8a790288e0ba53d8a9f1ba6fd8.js": "/shop/precache-manifest.b2ed8e8a790288e0ba53d8a9f1ba6fd8.js",
+  "service-worker.js": "/shop/service-worker.js",
+  "static/css/main.b05b6a6e.chunk.css.map": "/shop/static/css/main.b05b6a6e.chunk.css.map",
+  "static/media/hero-banner.png": "/shop/static/media/hero-banner.cefea94c.png",
+  "static/media/style.css": "/shop/static/media/parallax-bg.47da820d.png",
+  "static/media/themify-icons.css": "/shop/static/media/themify.e23a7dca.ttf"
+}
